@@ -16,7 +16,7 @@ public class Main {
         Driver busDriver = new Driver("D100", "Walusimbi M", "DL12345", "Class B");
         Driver vanDriver = new Driver("D101", "Mulindwa A", "DL67890", "Class C");
 
-        // Create transport system
+        // Creating transport system
         TransportManagementSystem tms = new TransportManagementSystem();
 
         // Demonstrate polymorphism
