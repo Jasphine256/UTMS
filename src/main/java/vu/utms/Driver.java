@@ -1,6 +1,6 @@
 package vu.utms;
 
-// Drver.java
+// Driver.java
 public class Driver {
     private String driverId;
     private String name;
