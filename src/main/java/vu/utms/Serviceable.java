@@ -1,4 +1,4 @@
-package vu.utms;
+pckage vu.utms;
 
 // Serviceable.java - Interface for maintenance
 public interface Serviceable {
