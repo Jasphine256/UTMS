@@ -1,6 +1,6 @@
 package vu.utms;
 
-// Student.java - Subclass of User
+// Student.java - Sub-class of User
 public class Student extends User {
     private String studentId;
     private String course;
@@ -17,8 +17,10 @@ public class Student extends User {
     }
 
     
-    // Student-specific method
+    // Student specific method 
     public void checkSchedule() {
         System.out.println("Checking student transport schedule...");
     }
 }
+
+
