@@ -13,8 +13,8 @@ public class Main {
         Van cargoVan = new Van("VU200", "Ford", "Transit", 2019, 500);
 
         // Create drivers
-        Driver busDriver = new Driver("D100", "Walusimbi M", "DL12345", "Class B");
-        Driver vanDriver = new Driver("D101", "Mulindwa A", "DL67890", "Class C");
+        Driver busDriver = new Driver("D100", "Mubiru I", "DL12345", "Class B");
+        Driver vanDriver = new Driver("D101", "Mawanda M", "DL67890", "Class C");
 
         // Creating transport system
         TransportManagementSystem tms = new TransportManagementSystem();
