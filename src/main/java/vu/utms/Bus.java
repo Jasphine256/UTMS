@@ -1,6 +1,6 @@
 package vu.utms;
 
-// Bs.java - Concrete vehicle class
+// Bus.java - Concrete vehicle class
 public class Bus extends Vehicle implements Serviceable, Trackable, Schedulable {
     private int passengerCapacity;
     private String currentLocation;
