@@ -1,4 +1,4 @@
-package vu.utms;
+ackage vu.utms;
 
 // Lecturer.java - Subclass of User
 public class Lecturer extends User {
