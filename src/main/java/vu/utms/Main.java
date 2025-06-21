@@ -1,4 +1,4 @@
-package vu.utms;
+ackage vu.utms;
 
 // Main.java
 public class Main {
