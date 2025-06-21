@@ -4,8 +4,8 @@ package vu.utms;
 public class Main {
     public static void main(String[] args) {
         // Create users
-        Student student = new Student("student1", "pass123", "student@vu.edu", "S1001", "Computer Science");
-        Lecturer lecturer = new Lecturer("prof1", "prof123", "lecturer@vu.edu", "L2001", "Engineering");
+        Student student = new Student("Atwine", "SPICE06", "student@vu.edu", "S1001", "Computer Science");
+        Lecturer lecturer = new Lecturer("profMubiru", "nemesis", "lecturer@vu.edu", "L2001", "Engineering");
         TransportOfficer officer = new TransportOfficer("officer1", "admin123", "transport@vu.edu", "T3001", "Day");
 
         // Create vehicles
