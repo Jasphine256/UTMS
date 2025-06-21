@@ -1,6 +1,6 @@
 package vu.utms;
 
-// Lcturer.java - Subclass of User
+// Lecturer.java - Subclass of User
 public class Lecturer extends User {
     private String staffId;
     private String department;
