@@ -1,6 +1,6 @@
 package vu.utms;
 
-// TransportOfficer.java - Subclass of User
+// Transportofficer.java - Subclass of User
 public class TransportOfficer extends User {
     private String officerId;
     private String shift;
@@ -16,7 +16,7 @@ public class TransportOfficer extends User {
         System.out.println("Transport officer " + getUsername() + " requested vehicle for inspection.");
     }
 
-    // Officer-specific method
+    // Officer specific method
     public void manageRoutes() {
         System.out.println("Managing transport routes...");
     }
