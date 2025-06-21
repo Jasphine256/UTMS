@@ -16,6 +16,7 @@ public class Student extends User {
         System.out.println("Student " + getUsername() + " requested transport for campus shuttle.");
     }
 
+    
     // Student-specific method
     public void checkSchedule() {
         System.out.println("Checking student transport schedule...");
